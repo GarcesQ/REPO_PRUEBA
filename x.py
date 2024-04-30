@@ -14,4 +14,5 @@ x//=4
 print(x)
 print(abs(-3))
 
-HOLA SALUDOS
+A = x + 8
+B = x**2 + y*1/3
